@@ -80,3 +80,10 @@ Key generated outputs include:
 ---
 
 ## Repository Structure
+
+async-fifo-rtl-to-gdsii/
+│── scripts/ # Genus and Innovus TCL scripts
+│── reports/ # Area, power, and timing reports
+│── docs/ # Screenshots: synthesis, floorplan, CTS, routing
+│── results/ # Final outputs (GDSII if permitted)
+│── README.md
